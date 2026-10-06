@@ -1,0 +1,2 @@
+splitio_client==9.4.1
+flask==3.1.0
